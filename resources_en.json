@@ -1,5 +1,6 @@
 {
 "header":"This is a header",
 "footer":"This is a footer",
-  "banner":"branch 2"
+  "banner":"branch 2",
+  "dev1":"developer 1"
 }
