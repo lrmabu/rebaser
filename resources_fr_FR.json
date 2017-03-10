@@ -3,5 +3,6 @@
 "footer":"pied",
   "banner":"branche", 
   "dev1":"developpeur1",
-  "post":"importer apres update a errors en angalais"
+  "post":"importer apres update a errors en angalais",
+  "aftercommits":"Apres les commits dans master"
 }
